@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../imgs/body-bg.jpg);
+}
+#formcontent{
+    background-color: white;
+    width: 35%;
+    height: 80vh;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    border-radius: 5%;
+}
+.formcontrol{
+    display: block;
+    width: 80%;
+    margin: 10px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid rgb(102, 102, 102);
+    outline: none;
+    
+}
+#buttoms{
+    background-color: rgb(11, 11, 244);
+    padding: 10px;
+    margin-left: 15px;
+    color: white;
+}
+#text1{
+    margin-left: 20px;
+}
+#paragraph{
+    margin-left: 15px;
+}
